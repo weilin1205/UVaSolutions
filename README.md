@@ -11,6 +11,7 @@
 
 ## List 項目目錄樹 ##
 ```
+.
 │  .gitignore
 │  README.md
 │  run.bat
@@ -22,32 +23,6 @@
 │      settings.json
 │      tasks.json
 │      
-├─exeFolder
-├─Skills
-│  │  positive_negative.cpp
-│  │  skill001.cpp
-│  │  skill002.cpp
-│  │  
-│  └─exeFolder
-│          positive_negative.exe
-│          skill001.exe
-│          
-├─TestSpace
-│  │  TestSpace01.cpp
-│  │  TestSpace02.cpp
-│  │  TestSpace03.cpp
-│  │  TestSpace04.cpp
-│  │  TestSpace05.cpp
-│  │  TestSpace06.cpp
-│  │  
-│  └─exeFolder
-│          TestSpace01.exe
-│          TestSpace02.exe
-│          TestSpace03.exe
-│          TestSpace04.exe
-│          TestSpace05.exe
-│          TestSpace06.exe
-│          
 ├─UVaTestData
 │  ├─vol001
 │  │      00100.in
@@ -244,164 +219,134 @@
 │          12650.out
 │          
 ├─volume001
-│  │  uva00100.cpp
-│  │  uva00118.cpp
-│  │  uva00118_v2.cpp
-│  │  
-│  └─exeFolder
+│      uva00100.cpp
+│      uva00118.cpp
+│      uva00118_v2.cpp
+│      
 ├─volume002
-│  │  uva00272.cpp
-│  │  uva00299.cpp
-│  │  
-│  └─exeFolder
+│      uva00272.cpp
+│      uva00299.cpp
+│      
 ├─volume003
-│  │  uva00369.cpp
-│  │  
-│  └─exeFolder
+│      uva00369.cpp
+│      
 ├─volume004
-│  │  uva00482.cpp
-│  │  uva00488.cpp
-│  │  uva00490.cpp
-│  │  
-│  └─exeFolder
-│          uva00482.exe
-│          
+│      uva00482.cpp
+│      uva00488.cpp
+│      uva00490.cpp
+│      
 ├─volume005
-│  │  uva00591.cpp
-│  │  
-│  └─exeFolder
+│      uva00591.cpp
+│      
 ├─volume006
-│  │  uva00624.cpp
-│  │  
-│  └─exeFolder
+│      uva00624.cpp
+│      
 ├─volume009
-│  │  uva00948.cpp
-│  │  uva00990.cpp
-│  │  
-│  └─exeFolder
+│      uva00948.cpp
+│      uva00990.cpp
+│      
 ├─volume100
-│  │  uva10008.cpp
-│  │  uva10019.cpp
-│  │  uva10035.cpp
-│  │  uva10038.cpp
-│  │  uva10041.cpp
-│  │  uva10050.cpp
-│  │  uva10055.cpp
-│  │  uva10056.cpp
-│  │  uva10057.cpp
-│  │  uva10062.cpp
-│  │  uva10071.cpp
-│  │  uva10082.cpp
-│  │  uva10093.cpp
-│  │  
-│  └─exeFolder
+│      uva10008.cpp
+│      uva10019.cpp
+│      uva10035.cpp
+│      uva10038.cpp
+│      uva10041.cpp
+│      uva10050.cpp
+│      uva10055.cpp
+│      uva10056.cpp
+│      uva10057.cpp
+│      uva10062.cpp
+│      uva10071.cpp
+│      uva10082.cpp
+│      uva10093.cpp
+│      
 ├─volume101
-│  │  uva10101.cpp
-│  │  uva10107.cpp
-│  │  uva10130.cpp
-│  │  uva10170.cpp
-│  │  uva10189.cpp
-│  │  uva10190.cpp
-│  │  uva10193.cpp
-│  │  uva10198.cpp
-│  │  
-│  └─exeFolder
+│      uva10101.cpp
+│      uva10107.cpp
+│      uva10130.cpp
+│      uva10170.cpp
+│      uva10189.cpp
+│      uva10190.cpp
+│      uva10193.cpp
+│      uva10198.cpp
+│      
 ├─volume102
-│  │  uva10221.cpp
-│  │  uva10222.cpp
-│  │  uva10226.cpp
-│  │  uva10235.cpp
-│  │  uva10242.cpp
-│  │  uva10252.cpp
-│  │  uva10268.cpp
-│  │  
-│  └─exeFolder
+│      uva10221.cpp
+│      uva10222.cpp
+│      uva10226.cpp
+│      uva10235.cpp
+│      uva10242.cpp
+│      uva10252.cpp
+│      uva10268.cpp
+│      
 ├─volume104
-│  │  uva10409.cpp
-│  │  uva10415.cpp
-│  │  uva10420.cpp
-│  │  
-│  └─exeFolder
+│      uva10409.cpp
+│      uva10415.cpp
+│      uva10420.cpp
+│      
 ├─volume106
-│  │  uva10642.cpp
-│  │  
-│  └─exeFolder
+│      uva10642.cpp
+│      
 ├─volume107
-│  │  uva10783.cpp
-│  │  uva10789.cpp
-│  │  
-│  └─exeFolder
+│      uva10783.cpp
+│      uva10789.cpp
+│      
 ├─volume108
-│  │  uva10812.cpp
-│  │  uva10815.cpp
-│  │  
-│  └─exeFolder
+│      uva10812.cpp
+│      uva10815.cpp
+│      
 ├─volume109
-│  │  uva10908.cpp
-│  │  uva10908_v2.cpp
-│  │  uva10922.cpp
-│  │  uva10929.cpp
-│  │  uva10931.cpp
-│  │  uva10935.cpp
-│  │  
-│  └─exeFolder
+│      uva10908.cpp
+│      uva10908_v2.cpp
+│      uva10922.cpp
+│      uva10929.cpp
+│      uva10931.cpp
+│      uva10935.cpp
+│      
 ├─volume110
-│  │  uva11000.cpp
-│  │  uva11005.cpp
-│  │  uva11063.cpp
-│  │  
-│  └─exeFolder
+│      uva11000.cpp
+│      uva11005.cpp
+│      uva11063.cpp
+│      
 ├─volume111
-│  │  uva11150.cpp
-│  │  
-│  └─exeFolder
+│      uva11150.cpp
+│      
 ├─volume113
-│  │  uva11321.cpp
-│  │  uva11332.cpp
-│  │  uva11349.cpp
-│  │  uva11369.cpp
-│  │  
-│  └─exeFolder
+│      uva11321.cpp
+│      uva11332.cpp
+│      uva11349.cpp
+│      uva11369.cpp
+│      
 ├─volume114
-│  │  uva11417.cpp
-│  │  uva11461.cpp
-│  │  uva11461_v2.cpp
-│  │  
-│  └─exeFolder
+│      uva11417.cpp
+│      uva11461.cpp
+│      uva11461_v2.cpp
+│      
 ├─volume118
-│  │  uva11824.cpp
-│  │  
-│  └─exeFolder
+│      uva11824.cpp
+│      
 ├─volume119
-│  │  uva11934.cpp
-│  │  uva11995.cpp
-│  │  
-│  └─exeFolder
+│      uva11934.cpp
+│      uva11995.cpp
+│      
 ├─volume120
-│  │  uva12019.cpp
-│  │  
-│  └─exeFolder
+│      uva12019.cpp
+│      
 ├─volume121
-│  │  uva12100.cpp
-│  │  uva12149.cpp
-│  │  
-│  └─exeFolder
+│      uva12100.cpp
+│      uva12149.cpp
+│      
 ├─volume123
-│  │  uva12372.cpp
-│  │  
-│  └─exeFolder
+│      uva12372.cpp
+│      
 ├─volume124
-│  │  uva12455.cpp
-│  │  
-│  └─exeFolder
+│      uva12455.cpp
+│      
 ├─volume125
-│  │  uva12592.cpp
-│  │  
-│  └─exeFolder
+│      uva12592.cpp
+│      
 └─volume126
-    │  uva12650.cpp
-    │  
-    └─exeFolder
-            uva12650.exe
+        uva12650.cpp
+        
 
 ```
