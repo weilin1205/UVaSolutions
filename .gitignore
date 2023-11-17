@@ -1,0 +1,7 @@
+/.vscode
+**/exeFolder
+/Test_space
+/Skills
+
+*.txt
+*.bat
