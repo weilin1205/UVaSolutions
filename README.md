@@ -222,125 +222,125 @@ tree /f > tree.txt
 │          12650.out
 │          
 ├─volume001
-│      uva00100.cpp
-│      uva00118.cpp
-│      uva00118_v2.cpp
+│      uva00100_The_3n+1_problem.cpp
+│      uva00118_Mutant_Flatworld_Explorers.cpp
+│      uva00118_Mutant_Flatworld_Explorers_v2.cpp
 │      
 ├─volume002
-│      uva00272.cpp
-│      uva00299.cpp
+│      uva00272_Rotating_Sentences.cpp
+│      uva00299_Train_Swapping.cpp
 │      
 ├─volume003
-│      uva00369.cpp
+│      uva00369_Combinations.cpp
 │      
 ├─volume004
-│      uva00482.cpp
-│      uva00488.cpp
-│      uva00490.cpp
+│      uva00482_Permutation_Arrays.cpp
+│      uva00488_Triangle_Wave.cpp
+│      uva00490_Rotating_Sentences.cpp
 │      
 ├─volume005
-│      uva00591.cpp
+│      uva00591_Box_of_Bricks.cpp
 │      
 ├─volume006
-│      uva00624.cpp
+│      uva00624_CD.cpp
 │      
 ├─volume009
-│      uva00948.cpp
-│      uva00990.cpp
+│      uva00948_Fibonaccimal_Base.cpp
+│      uva00990_Diving_for_Gold.cpp
 │      
 ├─volume100
-│      uva10008.cpp
-│      uva10019.cpp
-│      uva10035.cpp
-│      uva10038.cpp
-│      uva10041.cpp
-│      uva10050.cpp
-│      uva10055.cpp
-│      uva10056.cpp
-│      uva10057.cpp
-│      uva10062.cpp
-│      uva10071.cpp
-│      uva10082.cpp
-│      uva10093.cpp
+│      uva10008_Whats_Cryptanalysis.cpp
+│      uva10019_Funny_Encryption_Method.cpp
+│      uva10035_Primary_Arithmetic.cpp
+│      uva10038_Jolly_Jumpers.cpp
+│      uva10041_Vitos_Family.cpp
+│      uva10050_Hartals.cpp
+│      uva10055_Hashmat_the_brave_warrior.cpp
+│      uva10056_Rotating_Sentences.cpp
+│      uva10057_A_mid-summer_nights_dream.cpp
+│      uva10062_Tell_me_the_frequencies!.cpp
+│      uva10071_Back_to_High_School_Physics.cpp
+│      uva10082_WERTYU.cpp
+│      uva10093_An_Easy_Problem!.cpp
 │      
 ├─volume101
-│      uva10101.cpp
-│      uva10107.cpp
-│      uva10130.cpp
-│      uva10170.cpp
-│      uva10189.cpp
-│      uva10190.cpp
-│      uva10193.cpp
-│      uva10198.cpp
+│      uva10101_Bangla_Numbers.cpp
+│      uva10107_What_is_the_Median.cpp
+│      uva10130_SuperSale.cpp
+│      uva10170_The_Hotel_with_Infinite_Rooms.cpp
+│      uva10189_Minesweeper.cpp
+│      uva10190_Divide_But_Not_Quite_Conquer!.cpp
+│      uva10193_All_You_Need_Is_Love.cpp
+│      uva10198_Counting.cpp
 │      
 ├─volume102
-│      uva10221.cpp
-│      uva10222.cpp
-│      uva10226.cpp
-│      uva10235.cpp
-│      uva10242.cpp
-│      uva10252.cpp
-│      uva10268.cpp
+│      uva10221_Satellites.cpp
+│      uva10222_Decode_the_Mad_man.cpp
+│      uva10226_Hardwood_Species.cpp
+│      uva10235_Simply_Emirp.cpp
+│      uva10242_Fourth_Point !!.cpp
+│      uva10252_Common_Permutation.cpp
+│      uva10268_498-bis.cpp
 │      
 ├─volume104
-│      uva10409.cpp
-│      uva10415.cpp
-│      uva10420.cpp
+│      uva10409_Die_Game.cpp
+│      uva10415_Eb_Alto_Saxophone_Player.cpp
+│      uva10420_List_of_Conquests.cpp
 │      
 ├─volume106
-│      uva10642.cpp
+│      uva10642_Can_You_Solve_It.cpp
 │      
 ├─volume107
-│      uva10783.cpp
-│      uva10789.cpp
+│      uva10783_Odd_Sum.cpp
+│      uva10789_Prime_Frequency.cpp
 │      
 ├─volume108
-│      uva10812.cpp
-│      uva10815.cpp
+│      uva10812_Beat_the_Spread!.cpp
+│      uva10815_Andys_First_Dictionary.cpp
 │      
 ├─volume109
-│      uva10908.cpp
-│      uva10908_v2.cpp
-│      uva10922.cpp
-│      uva10929.cpp
-│      uva10931.cpp
-│      uva10935.cpp
+│      uva10908_Largest_Square.cpp
+│      uva10908_Largest_Square_v2.cpp
+│      uva10922_2_the_9s.cpp
+│      uva10929_You_can_say_11.cpp
+│      uva10931_Parity.cpp
+│      uva10935_Throwing_cards_away_I.cpp
 │      
 ├─volume110
-│      uva11000.cpp
-│      uva11005.cpp
-│      uva11063.cpp
+│      uva11000_Bee.cpp
+│      uva11005_Cheapest Base.cpp
+│      uva11063_B2-Sequence.cpp
 │      
 ├─volume111
-│      uva11150.cpp
+│      uva11150_Cola.cpp
 │      
 ├─volume113
-│      uva11321.cpp
-│      uva11332.cpp
-│      uva11349.cpp
-│      uva11369.cpp
+│      uva11321_Sort!_Sort!!_And_Sort!!!.cpp
+│      uva11332_Summing_Digits.cpp
+│      uva11349_Symmetric_Matrix.cpp
+│      uva11369_Shopaholic.cpp
 │      
 ├─volume114
-│      uva11417.cpp
-│      uva11461.cpp
-│      uva11461_v2.cpp
+│      uva11417_GCD.cpp
+│      uva11461_Square_Numbers.cpp
+│      uva11461_Square_Numbers_v2.cpp
 │      
 ├─volume118
-│      uva11824.cpp
+│      uva11824_A_Minimum_Land_Price.cpp
 │      
 ├─volume119
-│      uva11934.cpp
-│      uva11995.cpp
+│      uva11934_Magic_Formula.cpp
+│      uva11995_I_Can_Guess_the_Data_Structure!.cpp
 │      
 ├─volume120
-│      uva12019.cpp
+│      uva12019_Dooms_Day_Algorithm.cpp
 │      
 ├─volume121
-│      uva12100.cpp
-│      uva12149.cpp
+│      uva12100_Printer_Queue.cpp
+│      uva12149_Feynman.cpp
 │      
 ├─volume123
-│      uva12372.cpp
+│      uva12372_Packing_for_Holiday.cpp
 │      
 ├─volume124
 │      uva12455_Bars.cpp
